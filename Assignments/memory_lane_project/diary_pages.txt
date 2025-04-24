@@ -1,0 +1,37 @@
+ID: 205
+Date: 2022-05-07
+Title: Weekend Hike
+Entry: Hiked the Twin Hills trail today. Beautiful views!
+Next: 999
+
+---
+
+ID: 103
+Date: 2022-05-03
+Title: A New Start
+Entry: Today I started my new job. I’m nervous but excited.
+Next: 205
+
+---
+
+ID: 999
+Date: 2022-05-10
+Title: Coffee Thoughts
+Entry: Met an old friend over coffee. Unexpected joy.
+Next: NULL
+
+---
+
+ID: 450
+Date: 2022-05-05
+Title: Rainy Day
+Entry: Stayed home and listened to the rain. Peaceful.
+Next: 205
+
+---
+
+ID: 888
+Date: 2022-05-01
+Title: May Begins
+Entry: The first of May. Something about fresh starts.
+Next: 103
